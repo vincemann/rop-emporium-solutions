@@ -1,0 +1,5 @@
+set target-async on
+set pagination off
+set follow-fork-mode child
+set disassembly-flavor intel
+attach 3984
